@@ -10,11 +10,12 @@
 * Questions
 * Testing
 ## Usage
-      
+      Demo: https://drive.google.com/file/d/1_qRrWK5EsGhGiXZPc7ZXX_oYxPlidhVf/view
 ## Licence
      MIT
 ## Testing
 npm test
 ## Questions
  email:
-github:
+github:MJLEECH
+Repo: https://github.com/MJLeech/Logo-mkr
